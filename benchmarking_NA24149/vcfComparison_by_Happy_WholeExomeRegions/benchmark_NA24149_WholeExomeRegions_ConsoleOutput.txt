@@ -1,0 +1,4 @@
+Benchmarking Summary:
+                 TRUTH.TOTAL  QUERY.TOTAL  METRIC.Recall  METRIC.Precision  METRIC.Frac_NA  TRUTH.TOTAL.TiTv_ratio  QUERY.TOTAL.TiTv_ratio  TRUTH.TOTAL.het_hom_ratio  QUERY.TOTAL.het_hom_ratio
+Locations.INDEL       5290.0       5415.0       0.896975          0.879756        0.000185                     NaN                     NaN                   1.456634                   1.852721
+Locations.SNP        55518.0      55496.0       0.987950          0.987945        0.000000                2.451799                2.432997                   1.515638                   1.568974
