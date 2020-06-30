@@ -1,0 +1,8 @@
+Indel Size distribution
+INDEL SIZE	 FREQUENCY	 #TP	 #FP	 #FN	 PRECISION(%)	 RECALL(%)
+1	48	48	0	0	100	100
+2 - 5	78	70	10	8	87.5	89.74
+6 - 10	20	18	2	1	90	94.74
+11 - 20	9	9	0	0	100	100
+21 - 50	3	3	0	0	100	100
+51 and greater	0	0	0	0	NaN	NaN
