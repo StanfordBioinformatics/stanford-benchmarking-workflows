@@ -334,7 +334,7 @@ steps:
        channel: outputFile_commonPrefix
      - type: string
        channel: WholeExomePrefix    
-     - type: file  ## Obtained from the vcfComparison_by_Happy_WholeExome
+     - type: file 
        channel: truthWholeExomeVCF
      - type: string
        channel: indelDistributionSuffix
